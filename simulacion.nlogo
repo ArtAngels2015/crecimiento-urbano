@@ -20,7 +20,7 @@ to setup
   setup-testeo
 
   setup-patches
-  setup-turtles
+  setup-turtles; skinnyyyyyyyyyyyyy::Dklsñ
   ;;
 
   gis:load-coordinate-system (word mapa ".prj")
